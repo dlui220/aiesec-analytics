@@ -1,0 +1,1 @@
+oGV	6	11								s	i	i	i	b	i	i	i	i	i	iName	FM	GMM	Conference	didIXP	numEPS	numContacted	num1on1	numApplied	numApproved	numAcceptedQuinnBaumgartner	0	0	0	true	2	0	0	2	1	2MichaelWysong	0	0	0	true	2	0	0	2	1	2SimonFahlander	0	0	0	true	2	0	0	2	1	2JerryChang	0	0	0	true	2	0	0	2	1	2KaitlynHeiss	0	0	0	true	2	0	0	2	1	2ShielaRoyama	0	0	0	true	2	0	0	2	1	2

@@ -1,0 +1,1 @@
+oGT	4	10							s	i	i	i	b	i	i	i	i	iName	FM	GMM	Conference	didIXP	numEPS	numContacted	num1on1	numApplied	numApprovedLauritaMansour	0	0	0	false	0	0	0	0	0KyleRiebock	10	2	1	true	2	30	2	0	0VianneyFlores	0	2	1	true	2	30	2	0	0ArushiKuchhal	0	2	1	true	2	30	2	0	0									
