@@ -105,3 +105,17 @@ ostream& operator<<(ostream& os, const TableType& tt) {
   }
   terminate();
 }
+bool TableType::isString(){
+  return ((int)tag == 0);
+}
+std::string TableType::getString(){
+    return data_string;
+}
+
+bool TableType::isBool(){
+  return ((int)tag == 3);
+}
+
+bool TableType::getBool(){
+  return data_bool;
+}

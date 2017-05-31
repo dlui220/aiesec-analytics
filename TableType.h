@@ -67,6 +67,12 @@ class TableType {
   template <typename T, typename = Only_allow_for_table_types_t<T>>
   bool operator!=(const T&) const noexcept;
 
+  bool isString();
+  std::string getString();
+
+  bool isBool();
+  bool getBool();
+
   private:
   // Stop looking at my privates. You won't like what you see.
   // Skip down to after the end of the class for some other things
